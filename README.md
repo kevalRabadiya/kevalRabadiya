@@ -1,11 +1,9 @@
-
-
 <h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevalrabadiya&label=Profile%20views&color=0e75b6&style=flat" alt="kevalrabadiya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevalrabadiya" alt="kevalrabadiya" /></a> </p>
-
+<p align="right"><img src="https://imgs.search.brave.com/HGhodKOdbcn6g5aICVrjrcTHGYILePyyHUFv69GPvds/rs:fit:800:600:1/g:ce/aHR0cHM6Ly93d3cu/aWloZ2xvYmFsLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OS8wMi9kY3NhZC5n/aWY.gif" alt="kevalrabadiya" /></a> </p>
 <p align="left"> <a href="https://twitter.com/kevalrabadiya2" target="blank"><img src="https://img.shields.io/twitter/follow/kevalrabadiya2?logo=twitter&style=for-the-badge" alt="kevalrabadiya2" /></a> </p>
 
 - 📫 How to reach me **kevalrabadiya27@gmail.com**
@@ -13,7 +11,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kevalrabadiya2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kevalrabadiya2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/keval-rabadiya-496842203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/keval-rabadiya-496842203" height="30" width="40" /></a>
+<a href="https://codesandbox.com/kevalrabadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="kevalrabadiya" height="30" width="40" /></a>
 <a href="https://instagram.com/kevalrabadiya27@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kevalrabadiya27@gmail.com" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kevalrabadiya27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kevalrabadiya27" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kevalrabadiya27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kevalrabadiya27" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kevalrabadiya27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kevalrabadiya27" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevalrabadiya&show_icons=true&locale=en&layout=compact" alt="kevalrabadiya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevalrabadiya&show_icons=true&locale=en" alt="kevalrabadiya" /></p>
-
--->
