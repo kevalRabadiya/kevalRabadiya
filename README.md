@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevalrabadiya&label=Profile%20views&color=0e75b6&style=flat" alt="kevalrabadiya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevalrabadiya" alt="kevalrabadiya" /></a> </p>
-<p align="right"><img src="https://imgs.search.brave.com/HGhodKOdbcn6g5aICVrjrcTHGYILePyyHUFv69GPvds/rs:fit:800:600:1/g:ce/aHR0cHM6Ly93d3cu/aWloZ2xvYmFsLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OS8wMi9kY3NhZC5n/aWY.gif" width="250px" alt="kevalrabadiya" /></a> </p>
+<p align="right"><img src="https://imgs.search.brave.com/HGhodKOdbcn6g5aICVrjrcTHGYILePyyHUFv69GPvds/rs:fit:800:600:1/g:ce/aHR0cHM6Ly93d3cu/aWloZ2xvYmFsLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/OS8wMi9kY3NhZC5n/aWY.gif" width="250px" style=border-radius:'20px' alt="kevalrabadiya" /></a> </p>
 <p align="left"> <a href="https://twitter.com/kevalrabadiya2" target="blank"><img src="https://img.shields.io/twitter/follow/kevalrabadiya2?logo=twitter&style=for-the-badge" alt="kevalrabadiya2" /></a> </p>
 
 - 📫 How to reach me **kevalrabadiya27@gmail.com**
